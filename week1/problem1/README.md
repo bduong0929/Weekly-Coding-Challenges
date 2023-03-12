@@ -5,7 +5,7 @@ You have a grid of integers called "accounts", with m rows and n columns. Each c
 **Example 1:**
 
 <pre>
-<b>Input:</b> accounts = [[1,2,3],[3,2,1]]
+<b>Input:</b> accounts = [[100, 200, 300]]
 <b>Output:</b> 600
 </pre>
 
