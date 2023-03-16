@@ -2,7 +2,7 @@ package com.revature;
 
 public class App {
     public static void main(String[] args) {
-        // Use this class to debug your Solution class
+        // Use this object to debug
         WealthiestCustomer wc = new WealthiestCustomer();
     }
 }
